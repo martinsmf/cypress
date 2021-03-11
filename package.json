@@ -1,0 +1,25 @@
+{
+  "name": "cypress-automacao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^6.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "cypress:open": "./node_modules/.bin/cypress open",
+    "cypress:run": "./node_modules/.bin/cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinsmf/cypress-automacao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinsmf/cypress-automacao/issues"
+  },
+  "homepage": "https://github.com/martinsmf/cypress-automacao#readme"
+}
