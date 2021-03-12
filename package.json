@@ -6,7 +6,9 @@
   "dependencies": {
     "cypress": "^6.6.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "faker": "^5.4.0"
+  },
   "scripts": {
     "cypress:open": "./node_modules/.bin/cypress open",
     "cypress:run": "./node_modules/.bin/cypress run"
